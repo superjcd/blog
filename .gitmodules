@@ -1,0 +1,4 @@
+[submodule "hugoblogs/public"]
+	path = hugoblogs/public
+	url = https://github.com/superjcd/superjcd.github.io.git
+	branch = main

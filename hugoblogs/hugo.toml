@@ -1,0 +1,4 @@
+baseURL = 'https://superjcd.github.io/'
+languageCode = "zh-CN"
+title = "Superjcd's Blog"
+theme = "PaperMod"
